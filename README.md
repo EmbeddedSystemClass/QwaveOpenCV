@@ -46,21 +46,21 @@ OpenCV wrapper functions for LabVIEW for Raspberry Pi 3B/3B+/3A+.
 
 [https://github.com/QWaveSystems/QwaveCV](https://github.com/QWaveSystems/QwaveCV)
 
-  1.sudo schroot -r -c lv
+  1.`sudo schroot -r -c lv`
 
-  2.git clone https://github.com/QWaveSystems/QwaveCV.git
+  2.`git clone https://github.com/QWaveSystems/QwaveCV.git`
 
-  3.cd QwaveCV
+  3.`cd QwaveCV`
 
-  4.mkdir build
+  4.`mkdir build`
 
-  5.cd build
+  5.`cd build`
 
-  6.cmake ..
+  6.`cmake ..`
 
-  7.make
+  7.`make`
 
-  8.make install
+  8.`make install`
 
 -----------------------------------------------------------------
 
