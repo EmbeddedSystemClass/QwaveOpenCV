@@ -36,7 +36,7 @@ OpenCV wrapper functions for LabVIEW for Raspberry Pi 3B/3B+/3A+.
 
 6.The source code for OpenCV function and template are located at [**QwaveCV**](https://github.com/QWaveSystems/QwaveCV) repository.
 
-![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-01.png)
+![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-10.png)
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-02.png)
 
@@ -46,31 +46,22 @@ OpenCV wrapper functions for LabVIEW for Raspberry Pi 3B/3B+/3A+.
 
 [https://github.com/QWaveSystems/QwaveCV](https://github.com/QWaveSystems/QwaveCV)
 
-1.sudo schroot -r -c lv
+  1.sudo schroot -r -c lv
 
-2.git clone https://github.com/QWaveSystems/QwaveCV.git
+  2.git clone https://github.com/QWaveSystems/QwaveCV.git
 
-3.cd QwaveCV
+  3.cd QwaveCV
 
-4.mkdir build
+  4.mkdir build
 
-5.cd build
+  5.cd build
 
-6.cmake ..
+  6.cmake ..
 
-7.make
+  7.make
 
-8.make install
+  8.make install
 
-8.There is addtion examples, Download and Install **"qwave_opencv_examples-xx.xx.vip"** using VIPM (VI Package Manager).
-
-![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-01.png)
-
-9.The example project is located at **"C:\Program Files (x86)\National Instruments\LabVIEW 2014\vi.lib\Q-Wave Systems\QwaveOpenCV_Examples"**. Open **"Qwave Vision Example.lvproj"**
-
-![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-02.png)
-
-![](http://ftp.qwavesys.com/tmp_pics/OpenCV_Examples-03.png)
 -----------------------------------------------------------------
 
 -Raspberry Pi™ is a registered trademark of the Raspberry Pi foundation.
