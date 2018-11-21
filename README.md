@@ -36,7 +36,7 @@ OpenCV wrapper functions for LabVIEW for Raspberry Pi 3B/3B+/3A+.
 
 6.The source code for OpenCV function and template are located at [**QwaveCV**](https://github.com/QWaveSystems/QwaveCV) repository.
 
-![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-10.png)
+![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-11.png)
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-02.png)
 
