@@ -2,9 +2,9 @@
 
 OpenCV wrapper functions for LabVIEW for Raspberry Pi 3B/3B+/3A+.
 
-[**QwaveOpenCV**](https://github.com/QWaveSystems/QwaveOpenCV) is a additional functions for image processing or machine vision application using OpenCV functions (C/C++). 
-
 **QwaveOpenCV** package is required [**QwaveCameraCV**](https://github.com/QWaveSystems/QwaveCameraCV) to aquired image from camera under Raspberry Pi (ARMv7 Linux enviromnent).
+
+[**QwaveOpenCV**](https://github.com/QWaveSystems/QwaveOpenCV) is a additional functions for image processing or machine vision application using OpenCV functions (C/C++). 
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveOpenCV-06.png)
 
